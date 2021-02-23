@@ -47,7 +47,7 @@ body{
 }
 
 body h1 {
-    font-family: 'Cascadia Code';
+    font-family: 'Arvo';
     color: gold;
     animation: myani 2s infinite;
     text-align: center;
@@ -67,7 +67,7 @@ body h1 {
 body p {
     border:powderblue;
     font-size: 18px;
-    font-family: "Cascadia Code";
+    font-family: "Arvo";
     text-align: center;
     font-weight: bold;
     color: wheat;
@@ -83,7 +83,7 @@ button {
    display: inline-block;
    font-size: 16px;
    border-radius: 10px;
-   font-family: "Cascadia Code";
+   font-family: "Arvo";
    justify-content: center;
    transition:500ms;
 }
@@ -121,7 +121,7 @@ li {
     margin-left: 23%;
 }
 li a {
-    font-family: 'Cascadia Code';
+    font-family: 'Arvo';
     display: block;
     color: white;
     text-align: center;
@@ -176,7 +176,7 @@ li a:hover {
 }
 
 .foot{
-    font-family: "Cascadia Code";
+    font-family: "Arvo";
     font-size: 10px;
     text-align: center;
     color: whitesmoke;
