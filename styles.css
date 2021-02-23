@@ -78,6 +78,7 @@ button {
    border: none;
    color:orchid;
    padding: 15px 32px;
+   margin: 5px;
    text-align: center;
    text-decoration: none;
    display: inline-block;
@@ -143,7 +144,6 @@ li a:hover {
     margin-left: auto;
     margin-right: auto;
     border-radius: 0;
-    animation: animatedborder 3s infinite;
 }
 
 /*@keyframes animatedborder {
